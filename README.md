@@ -1,31 +1,35 @@
-### Oii, Eu sou Ítallo Márlon, estudante de programação e futuro desenvolvedor. 😆
+# Olá, eu sou Ítallo Márlon! 👋
 
+### Ciência da Computação | Infraestrutura, DevSecOps & Automação
+
+Sou estudante de Ciência da Computação na UFPI e atualmente atuo como estagiário no TRT da 22ª Região. Tenho um forte interesse nas áreas de infraestrutura e segurança, buscando focar em práticas de DevSecOps e na construção de fluxos de automação.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens e Bancos de Dados:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Infraestrutura, Dados e Automação:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/ItalloM3">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=ItalloM3&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Ítallo" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItalloM3&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Itallo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Itallo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Itallo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Itallo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Itallo-pic" height="150" style="border-radius:50px;" src="20211009_231842.gif">
 
- ##
+---
 
-<a href = "mailto: itallo1000724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<!--
-**ItalloM3/ItalloM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar
+<a href="mailto:itallo1000724@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
